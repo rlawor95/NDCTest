@@ -37,6 +37,10 @@
 		{
 			"Name": "DisplayClusterLaunch",
 			"Enabled": true
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
